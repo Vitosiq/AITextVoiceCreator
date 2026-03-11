@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "eFrameOne.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
